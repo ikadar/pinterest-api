@@ -1,0 +1,15 @@
+{
+  "name": "pinterest-api",
+  "authors": [
+    "Istvan <odesk.kadari@gmail.com>"
+  ],
+  "description": "Pinterest API Javascript DSK",
+  "main": "sdk.js",
+  "keywords": [
+    "Pinterest",
+    "API"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ikadar/pinterest-api",
+  "private": true
+}
